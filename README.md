@@ -1,4 +1,3 @@
-# research_practice
 Plant disease classification
 ==============================
 
