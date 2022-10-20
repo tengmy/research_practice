@@ -26,11 +26,15 @@ Project Organization
     │
     ├── README.md          <- The top-level README for developers using this project.
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── notebooks          <- Jupyter notebooks for analyzing database and results.
-    │
-    └── src                <- Source code used for training models and running experiments
+    ├── comparison         <- model results compared with Monhanty and Too.
+    │           ├──    notebooks          <- Jupyter notebooks and python files for analyzing database and results.
+    │           │      models             <- Trained and serialized models, model predictions, or model summaries                                                  │
+    │           └──    src                <- Source code used for training models and running experiments
+    │                          
+    └── replication        <- replication of Kelynhans's study   
+                ├──    notebooks          <- Jupyter notebooks and python files for analyzing database and results.
+                │      models             <- Trained and serialized models, model predictions, or model summaries                                                  │
+                └──    src                <- Source code used for training models and running experiments
 
 
 
